@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.Shop{
+  text-align: left;
+  display: inline-block;
+  width: 45%;
+  border-left: 2px red solid;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.Cart{
+  border: 3px black solid;
+  width: 300px;
+  margin: 30px;
+  padding: 4px;
+}
+.Cart h1{
+  color: blue;
+}
+/* .Cart-items{
+  display: inline-block;
+  width: 40%;
+} */
+.App-link {
+  color: #61dafb;
+}
+
+
+.Post{
+  border: 1px black solid;
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
