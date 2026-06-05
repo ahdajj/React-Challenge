@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+.shop{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.shop-items{
+  width: 45%;
+}
+.cart-item{
+  width: 320px;
+  margin: auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-between;
+}
+
+p{
+  margin: 0px;
+}
+
+.btn1 {
+  border: transparent;
+  border-radius: 100%;
+  margin-right: 2px;
+  cursor: pointer;
+}
+.btn2 {
+   border: transparent;
+   border-radius: 5px;
+   padding: 5px;
+   cursor: pointer;
+}
