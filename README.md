@@ -7,3 +7,5 @@ Projects can be found in seperate branches
 3-Shopping-cart : a shopping cart component witht the ability to add items to cart , increase/decrease items quantity and remove certain item or clear the cart 
 
 4-Local-storage : a simple practise of using local storage. The app is just a simple front-end authentication logic with out any backend , users are saved in local storage , Authentication is done by matching username and paswword with setting a logged item in local storage , although authentication should be done in backend but this app concept is working on local storage 
+
+5-Github-Profile : this app brings a certain github user info including Name , Email , Id , Repositories 
